@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #2a2a72;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.user-form {
+  width: 100%;
+  max-width: 700px;
+}
+
+.user-form input {
+  display: block;
+  background-color: #4c2885;
+  color: #fff;
+  width: 100%;
+  padding: 16px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 32px;
+  font-family: inherit;
+  font-size: 16px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.user-form input::placeholder {
+  color: #bbb;
+}
+
+.user-form input:focus {
+  outline: none;
+}
+
+.card {
+  max-width: 800px;
+  background-color: #4c2885;
+  border-radius: 20px;
+  display: flex;
+  padding: 48px;
+  margin: 0 24px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.avatar {
+  border-radius: 50%;
+  border: 10px solid #2a2a72;
+  width: 150px;
+  height: 150px;
+}
+
+.user-info {
+  color: #eee;
+  margin-left: 32px;
+}
+
+.user-info h2 {
+  margin-top: 0;
+}
+
+.user-info ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  gap: 20px;
+  max-width: 400px;
+}
+
+.user-info ul li {
+  display: flex;
+  align-items: center;
+}
+
+.user-info ul li strong {
+  font-size: 14px;
+  margin-left: 4px;
+}
+
+.repo {
+  color: #fff;
+  text-decoration: none;
+  background-color: #212a72;
+  font-size: 12px;
+  padding: 4px 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  display: inline-block;
+}
+
+@media (max-width: 600px) {
+  .card {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .user-form {
+    max-width: 400px;
+  }
+
+  .user-info ul {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    gap: 12px;
+    max-width: 400px;
+  }
+}
