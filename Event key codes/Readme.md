@@ -32,10 +32,10 @@ A small project which helps the user to find the keyboard events key, keyCode an
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-project-name.git
+https://github.com/ParakhSrivastava/WEB_PROJECTS.git
 
 # Navigate into the project directory
-cd your-project-name
+cd Event key codes
 
 # Open index.html in browser or use Live Server
 ```
