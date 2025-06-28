@@ -1,40 +1,59 @@
-# 📌 Github profiles
+# 📌 Project Title
 
-This project will allow the user to search the Github profile of the user based on the username with details like - Followes, Following, Latest repos, Bio, etc.
+_A concise summary of what the project is and what it does._
+
+---
+
+## 🚀 Live Demo
+
+🌐 [Click here to view live](https://your-demo-link.com) *(if deployed)*
 
 ---
 
 ## 📸 Screenshots
 
-**Landing page**
+### 🏠 Landing Page
+> This is the initial state where users can enter a GitHub username.
 
-<img width="1054" alt="image" src="https://github.com/user-attachments/assets/c679c29a-ed7a-483b-8c25-4ae739aedcc8" />
-
-**Searching for the username**
-
-<img width="899" alt="image" src="https://github.com/user-attachments/assets/92353de9-82c2-4b3c-9c91-5e4a87d2c45a" />
-
-**Profiles which do not exists**
-
-<img width="870" alt="image" src="https://github.com/user-attachments/assets/b685f35e-cc7e-4b00-b3c0-bf68f1b3d90f" />
-
+<img width="1054" alt="Landing Page" src="https://github.com/user-attachments/assets/c679c29a-ed7a-483b-8c25-4ae739aedcc8" />
 
 ---
 
+### 🔍 Searching for a Username
+> Displays detailed GitHub profile data including followers, repos, and bio.
+
+<img width="899" alt="Search Result" src="https://github.com/user-attachments/assets/92353de9-82c2-4b3c-9c91-5e4a87d2c45a" />
+
+---
+
+### ❌ Invalid Username
+> Error state when a non-existent or invalid username is entered.
+
+<img width="870" alt="User Not Found" src="https://github.com/user-attachments/assets/b685f35e-cc7e-4b00-b3c0-bf68f1b3d90f" />
+
 ## 🧠 What I Learned
 
-- ✅ Revision of handling form
-- ✅ Media queries for responsiveness
-- ✅ Axios handling with external APIs
-- ✅ Error handling
-- ✅ DOM manipulation
+- ✅ [e.g., CSS Grid & Flexbox layouts]
+- ✅ [e.g., DOM manipulation with vanilla JS]
+- ✅ [e.g., Accessibility and semantic HTML]
+- ✅ [e.g., Fetch API and async/await]
+- ✅ [e.g., State toggling and component logic]
+
+---
+
+## 💡 Features
+
+- ✔️ Feature 1
+- ✔️ Feature 2
+- ✔️ Feature 3
+- ✔️ Responsive on all devices
 
 ---
 
 ## 🔧 Built With
 
 - **HTML5**
-- **CSS3** 
+- **CSS3** *(with Flexbox / Grid / Animations)*
 - **JavaScript (ES6+)**
 
 ---
@@ -43,10 +62,10 @@ This project will allow the user to search the Github profile of the user based 
 
 ```bash
 # Clone the repo
-https://github.com/ParakhSrivastava/WEB_PROJECTS.git
+git clone https://github.com/your-username/your-project-name.git
 
 # Navigate into the project directory
-cd Github profiles
+cd your-project-name
 
 # Open index.html in browser or use Live Server
 ```
@@ -56,11 +75,22 @@ cd Github profiles
 ## 📂 Folder Structure
 
 ```plaintext
-📁 Event key codes/
+📁 your-project-name/
 ├── 📄 index.html
-├── 📄 styles.css
-├── 📄 index.mjs
+├── 📁 css/
+│   └── style.css
+├── 📁 js/
+│   └── script.js
+└── 📁 assets/
+    └── images, icons, fonts...
 ```
+
+---
+
+## 🤝 Acknowledgements / References
+
+- [Any tutorial, article, or reference you followed]
+- [Icons/images source, if any]
 
 ---
 
