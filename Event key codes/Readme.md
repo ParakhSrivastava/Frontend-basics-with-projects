@@ -20,15 +20,6 @@ A small project which helps the user to find the keyboard events key, keyCode an
 
 ---
 
-## 💡 Features
-
-- ✔️ Feature 1
-- ✔️ Feature 2
-- ✔️ Feature 3
-- ✔️ Responsive on all devices
-
----
-
 ## 🔧 Built With
 
 - **HTML5**
