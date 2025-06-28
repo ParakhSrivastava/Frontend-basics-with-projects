@@ -1,4 +1,4 @@
-# 📌 Project Title
+# 📌 Event key codes
 
 A small project which helps the user to find the keyboard events key, keyCode and code.
 
