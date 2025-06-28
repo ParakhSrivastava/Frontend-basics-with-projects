@@ -4,7 +4,7 @@ Welcome to the **Web Projects** repository! 👨‍💻✨
 
 This is a curated collection of my hands-on experiments, UI explorations, and learning implementations using **HTML**, **CSS**, and **JavaScript**. Whether it's crafting interactive components, practicing layouts, or diving into browser APIs — it's all here!
 
-![Web Dev Banner](https://user-images.githubusercontent.com/99184393/185816897-2dcf0c10-d436-4194-a6fd-c43e3b9a3f75.png)
+![Web Dev Banner](https://cdn.pixabay.com/photo/2017/08/10/07/32/banner-2618510_1280.jpg)
 
 ---
 
