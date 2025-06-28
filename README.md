@@ -36,19 +36,6 @@ This is a curated collection of my hands-on experiments, UI explorations, and le
 
 ---
 
-## 🌈 Visual Sneak Peek
-
-Here are some preview shots from the projects (click to enlarge):
-
-| Project | Preview |
-|--------|---------|
-| Responsive NavBar | ![navbar](https://user-images.githubusercontent.com/99184393/185818104-eacc6b6b-74a7-47df-95be-7cb0cfe0c16d.png) |
-| To-Do App | ![todo](https://user-images.githubusercontent.com/99184393/185818489-291d6315-38fd-49ee-bc7e-87e57f0fd928.png) |
-
-> Want to contribute feedback or ideas? Feel free to drop an issue or fork and experiment! 🔧
-
----
-
 ## 🛠 Tech Stack
 
 - **HTML5**
