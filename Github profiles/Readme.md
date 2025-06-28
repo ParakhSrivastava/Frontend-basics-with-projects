@@ -62,7 +62,7 @@ cd Github profiles
 ## 📂 Folder Structure
 
 ```plaintext
-📁 Event key codes/
+📁 Github profiles/
 ├── 📄 index.html
 ├── 📄 styles.css
 ├── 📄 index.mjs
