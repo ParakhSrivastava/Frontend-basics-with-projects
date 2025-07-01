@@ -8,7 +8,6 @@ Whether it's crafting interactive components, practicing layouts, or diving into
 ---
 
 ## 🚀 What's in this Repo?
-
 - 💡 Mini projects for **HTML5 semantics**, forms, and accessibility
 - 🎨 CSS animations, flexbox/grid layouts, custom components, modern theming (dark/light)
 - ⚙️ JavaScript logic including:
@@ -25,7 +24,6 @@ Whether it's crafting interactive components, practicing layouts, or diving into
 ---
 
 ## 📚 What I'm Exploring
-
 - ✅ Semantic HTML
 - ✅ CSS Grid & Flexbox
 - ✅ CSS Variables & Transitions
@@ -38,7 +36,6 @@ Whether it's crafting interactive components, practicing layouts, or diving into
 ---
 
 ## 🛠 Tech Stack
-
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
@@ -46,7 +43,6 @@ Whether it's crafting interactive components, practicing layouts, or diving into
 ---
 
 ## 📌 How to Use
-
 ```bash
 # Clone the repository
 git clone https://github.com/ParakhSrivastava/WEB_PROJECTS.git
@@ -58,7 +54,6 @@ git clone https://github.com/ParakhSrivastava/WEB_PROJECTS.git
 ---
 
 ## 🌟 Stay Connected
-
 If you like this repository, consider ⭐️ starring it. It motivates me to keep building and sharing more! 🚀
 
 Connect with me:
