@@ -24,7 +24,7 @@ Whether it's crafting interactive components, practicing layouts, or diving into
 ---
 
 ## 📚 What I'm Exploring
-✅ Semantic HTML
+✅ Semantic HTML <br>
 ✅ CSS Grid & Flexbox
 ✅ CSS Variables & Transitions
 ✅ DOM APIs
