@@ -23,15 +23,15 @@ Whether it's crafting interactive components, practicing layouts, or diving into
 
 ---
 
-## 📚 What I'm Exploring
+## 📚 Projects implementing...
 ✅ Semantic HTML <br>
-✅ CSS Grid & Flexbox
-✅ CSS Variables & Transitions
-✅ DOM APIs
-✅ Modern JavaScript ES6+ features
-✅ Responsive Design & Mobile Optimization
-✅ JavaScript form validation
-✅ Accessibility fundamentals
+✅ CSS Grid & Flexbox <br>
+✅ CSS Variables & Transitions <br>
+✅ DOM APIs <br>
+✅ Modern JavaScript ES6+ features <br>
+✅ Responsive Design & Mobile Optimization <br>
+✅ JavaScript form validation <br>
+✅ Accessibility fundamentals <br>
 
 ---
 
